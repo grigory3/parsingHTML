@@ -1,0 +1,9 @@
+### IntelliJ IDEA ###
+.idea/*
+.classpath
+.project
+.settings/
+/target/*
+/upload/
+.properties
+src/main/resources/url.properties
